@@ -71,7 +71,7 @@ Categorize quotes (e.g., "Motivational", "Funny").
 
 Add a "Copy to Clipboard" button for each quote.
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Vishwak
 
 💡 A Tip for your Code
 Since you are showcasing this on GitHub, make sure your JavaScript code handles the "empty state" (when a user visits for the first time).
